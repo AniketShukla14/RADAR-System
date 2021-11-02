@@ -36,7 +36,7 @@
   </ol>
   
 ## Objective
-<li>To learn arduino codes and to create a Radar System for the main project "Alpha Camp"</li>
+<li>To learn arduino codes and to create a Radar System for the main project "Alpha Camp".</li>
 <p align="right">(<a href="#Radar-System ">back to top</a>)</p>
 
 
