@@ -1,5 +1,5 @@
 # Radar-System
-<li>A Radar System is created by using arduino codes which tells the distance as well as the angle of the target.</li>
+<li>A Radar System is created by using Arduino codes which tells the distance as well as the angle of the target.</li>
 <li>I created this project in my first year to take part in a exhibition context where I won the 2nd prize.</li>
 <li>This Radar System is given a name Snake Eyes whose job is to look at any object coming to its range.
 <br>
