@@ -45,7 +45,7 @@
 It's good radar system which can detect obstacle up to 25 cm (according to the range of ultrasonic sensor) , it can also tell the distance of the obstacle from the Radar model and also the angle of the obstacle.
 <br>
 <br>
-To see the the working You can Click the link below
+To see the the working click the link below
 <br>
 https://youtu.be/TwFwIZkMjlU
 
